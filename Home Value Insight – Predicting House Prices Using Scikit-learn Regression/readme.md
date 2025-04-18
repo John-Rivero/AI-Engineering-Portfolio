@@ -1,4 +1,4 @@
-# Title: Home Value Insight – Predicting House Prices Using Regression
+# Title: Home Value Insight – Predicting House Prices Using Scikit-learn Regression
 
 # Program by: John Rivero
 
