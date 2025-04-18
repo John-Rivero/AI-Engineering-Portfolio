@@ -12,7 +12,7 @@
 
 -   Below is an image of the code.
 
-![Image alt text](image/Code.png)
+![Image alt text](image/sc.png)
 
 
 
